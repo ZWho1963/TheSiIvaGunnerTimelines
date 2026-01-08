@@ -1,16 +1,35 @@
-﻿import json
+﻿
+import csv
+import json
 
-paths = ["data3.json"]
-outputs = ["data3.json"]
+def rows_to_timeline(rows):
+    timeline = []
+    current_year = None
 
-created = []
+    for row in rows:
+        if row.get("row_type") == "year":
+            current_year = {
+                "year": row.get("year"),
+                "events": []
+            }
+            timeline.append(current_year)
+            continue
 
-for src, out in zip(paths, outputs):
-    with open(f"/Users/zacharymujar/Downloads/SiIvaTimeline2/{src}", "r", encoding="utf-8-sig") as f:
-        data = json.load(f)
-    converted = [{"year": year, "events": events} for year, events in data.items()]
-    with open(f"/Users/zacharymujar/Downloads/SiIvaTimeline2/{out}", "w", encoding="utf-8") as f:
-        json.dump(converted, f, ensure_ascii=False, indent=4)
-    created.append(out)
+        if row.get("row_type") == "event" and current_year:
+            event = {}
 
-created
+            for key, value in row.items():
+                if key != "row_type" and value not in (None, ""):
+                    event[key] = value
+
+            current_year["events"].append(event)
+
+    return timeline
+
+with open("2025.csv", newline="", encoding="utf-8-sig") as f:
+    rows = list(csv.DictReader(f))
+
+timeline = rows_to_timeline(rows)
+
+with open("timeline.json", "w", encoding="utf-8") as f:
+    json.dump(timeline, f, ensure_ascii=False, indent=2)

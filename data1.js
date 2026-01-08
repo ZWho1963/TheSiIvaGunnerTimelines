@@ -3,30 +3,6 @@ export const data1 = [
         "year": "2000",
         "events": [
             {
-                "note": "NOTE: The events of the Kirby Fighters rips take place in an unspecified timeframe. We do not know much about when these take place, other than that these all take place in the 2000s. Therefore, instead of dates, the rip titles will be used to date events."
-            },
-            {
-                "title": "One Noisy Morning - Wario Land II",
-                "content": "Monochrome Wario listens to bass-boosted loadsamoney out loud. This hurts Waluigi's ears.",
-                "class": "KIRBY"
-            },
-            {
-                "title": "Main Theme - Kirby Fighters",
-                "content": "Monochrome Wario threatens Monochrome Kirby into giving him a Maxim Tomato. Meanwhile, 2B searches and eventually finds Waluigi's Taco Stand in the (colored) Kirby Fighters universe. She pays for a garlic taco and uses it to warp into the GB Kirby Fighters universe. When she appears, Monochrome Kirby attempts to talk to her, though 2B pays him no mind. <br><br>Noticing the portal, Monochrome Kirby and later, Monochrome Wario, jump into the portal the Garlic Taco created and meet Kirby in the main Kirby Fighters universe. Monochrome Wario expresses interest in Kirby's car and they, along with Monochrome Kirby, end up fighting for it in a turn-based battle. Kirby ends up winning by running over Monochrome Wario. Monochrome Kirby is offered to stay at Kirby's house.",
-                "class": "KIRBY"
-            },
-            {
-                "title": "Main Theme - Kirby Fighters Deluxe",
-                "time": "one day after Main Theme - Kirby Fighters",
-                "content": "Kirby wakes up Monochrome Kirby. They squabble for a bit over Kirby's method of waking up Monochrome Kirby before they go to Waddlemart soon after. Monochrome Kirby is tasked with finding a dildo and asks Mr. L for help. Mr. L kidnaps Monochrome Kirby and requests Kirby to meet him in the back and give him all his money, or else Monochrome Kirby dies. <br><br>Kirby throws his grocery basket at Mr. L, who decides to mug him for all he's worth upon realizing Kirby has cocaine. Mr. L pulls out a gun and mocks him for believing he could even stand a chance, although Kirby wins via stabbing him with a pixelated dildo. <br><br><span class=\"OTHER\">In the April Fool's version of this video, Kirby lets Monochrome Kirby sleep. This triggers the secret ending. Awesome.</span>",
-                "class": "KIRBY"
-            },
-            {
-                "title": "Main Theme - Kirby Fighters 2",
-                "content": "Kirby and Monochrome Kirby debate fast food restaurants, until Waluigi's Taco Stand rolls into the area. He advertises the Green de la Bean Burrito Special, although Monochrome Kirby orders an Indian Taco instead. <br><br>Monochrome Kirby's reaction to the taco burns both Kirby and Waluigi. Waluigi states that Monochrome Kirby \"will pay for this\", and they begin fighting. Halfway through, however, <span class = \"CCC\">Kirby snatches the time-traveling/interdimensional taco and sends Waluigi to the CCC, and the Garlic Taco alters Waluigi's memory so that he forgets how to make tacos.</span>",
-                "class": "KIRBY"
-            },
-            {
                 "date": "May",
                 "content": "BonziBuddy receives an update changing the character associated with the program from Peedy to an original character named Bonzi."
             },
@@ -53,7 +29,7 @@ export const data1 = [
             },
             {
                 "date": "May 18",
-                "content": "The movie <i>Shrek</i> releases in cinemas in America; the usage of All Star in its opening credits propels Smash Mouth to stardom."
+                "content": "The movie <i>Shrek</i> releases in cinemas in America; the usage of <i>All Star</i> in its opening credits propels Smash Mouth to stardom."
             },
             {
                 "date": "September 11",

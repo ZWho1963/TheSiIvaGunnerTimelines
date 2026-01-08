@@ -1,17 +1,19 @@
-﻿import { data } from "./data.js";
-import { data1 } from "./data1.js";
-import { data2 } from "./data2.js";
-import { data3 } from "./data3.js";
-import { data4 } from "./data4.js";
-import { data5 } from "./data5.js";
-import { data6 } from "./data6.js";
-import { data7 } from "./data7.js";
-import { data8 } from "./data8.js";
-import { data9 } from "./data9.js";
-
+﻿import { data } from "./data.js"; //<2000
+import { data1 } from "./data1.js"; //2000-2010
+import { data2 } from "./data2.js"; //2010-2015
+import { data3 } from "./data3.js"; //2016
+import { data4 } from "./data4.js"; //2017
+import { data5 } from "./data5.js"; //2018
+import { data6 } from "./data6.js"; //2019
+import { data7 } from "./data7.js"; //2020
+import { data8 } from "./data8.js"; //2021
+import { data9 } from "./data9.js"; //2022
+import { data10 } from "./data10.js"; //2023
+import { data11 } from "./data11.js"; //2024 pain
+import { data12 } from "./data12.js"; //2025 even more pain thank you gork, nugget, monokuma and missingno
 
 const databases = {
-    data9
+    data12
 }
 
 const table = document.getElementById("timeline");

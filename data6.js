@@ -200,6 +200,10 @@
                 "class": "OTHER"
             },
             {
+                "date": "October 20",
+                "content": "A selection of rips from the SiIva AI's tenure are compiled in the album <i>SiIvaGunner's Highest Quality Rips: Volume AI</i>. The channel proceeds to go on a 6-day long hiatus after this album's release."
+            },
+            {
                 "date": "October 28",
                 "content": "The SilvaGunner Spooktacular Halloween Horror Special: Part III is held as another instalment in the channel's yearly Halloween traditions. The first episode of what would become <b>A Murder Not Too Nice</b> is released, a spoof and pastiche of the original <i>Scooby-Doo, Where Are You!</i> from the 1960s.",
             },

@@ -107,16 +107,16 @@ table {
 	color: #6735a5;
 }
 .KIRBY {
-	color: #a64d79;
+	color: #ffb3ff;
 }
 .PAINT {
-	color: #008aa4;
+	color: #008080;
 }
 .OTHER {
 	color: #888;
 }
 .FOOLS {
-	color: #b362b4;
+	color: #a64d79;
 }
 .NUGGET {
 	color: #996515;
@@ -126,4 +126,16 @@ table {
 }
 .SPIDA {
 	color: #e3e253;
+}
+.HCB {
+  color: #4d7780;
+}
+.KITTY {
+ color: #d5a6bd;
+}
+.RESPH {
+	color: #97659c;
+}
+.NOAKA {
+	color: #8a80b1;
 }

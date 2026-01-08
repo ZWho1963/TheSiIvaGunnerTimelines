@@ -46,6 +46,17 @@
                 "content": "SiIvaGunner becomes a verified channel."
             },
             {
+                "date": "April 30",
+                "content": "SiIvaGunner hosts a channel event centered around Newgrounds on Tom Fulp's birthday (Tom Fulp was the original creator of Newgrounds)."
+            },
+            {
+                "title": "Main Theme - Kirby Fighters Deluxe",
+                "time": "Some time in the 2000s, before the events of <b>Main Theme - Kirby Fighters 2</b>",
+                "timeclass": "KIRBY",
+                "content": "Kirby wakes up Monochrome Kirby. They squabble for a bit over Kirby's method of waking up Monochrome Kirby before they go to Waddlemart soon after. Monochrome Kirby is tasked with finding a dildo and asks Mr. L for help. Mr. L kidnaps Monochrome Kirby and requests Kirby to meet him in the back and give him all his money, or else Monochrome Kirby dies. <br><br>Kirby throws his grocery basket at Mr. L, who decides to mug him for all he's worth upon realizing Kirby has cocaine. Mr. L pulls out a gun and mocks him for believing he could even stand a chance, although Kirby wins via stabbing him with a pixelated dildo. <br><br><span class=\"OTHER\">In the April Fool's version of this video, Kirby lets Monochrome Kirby sleep. This triggers the secret ending. Awesome.</span>",
+                "class": "KIRBY"
+            },
+            {
                 "date": "May 22",
                 "title": "Hello :)",
                 "content": "The Harlem Shakeover is fully realised, having been floated in SiIvaCord as a joke since 2018. This takeover is also the first to directly utilise a KFAD contestant that did not win (although Johnny Bravo's sourcelist was used for Cartoon Network Day & Adult Swim Night). <span class=\"AIRTH\">A convenient gust of wind blows the ashes of Ajit Pai onto the SiIvaGunner mainframe, allowing him to take control of the channel.</span>"
@@ -67,6 +78,10 @@
                 "class": "AIRTH"
             },
             {
+                "date": "June 9",
+                "content": "The SiIvaGunner team announces the cancellation of both <i>LAW & DISORDER: TURNABOUT DESPAIR</i> and MissingNo's runners-up KFAD2 prizes in a tweet."
+            },
+            {
                 "date": "June 22",
                 "content": "Twitter artist @Mauzymice tweets a GIF of a talking cat character whose eyes become red and hypnotic."
             },
@@ -80,7 +95,7 @@
                 "class": "NUGGET"
             },
             {
-                "content": "Frisk travels through a distorted forest, stabs Sans in panic, and survives multiple monster encounters, including Lesser Dog. Jerry rescues Frisk and invites them to a party, which turns violent when a mob attacks Jerry over insurance fraud, severely injuring Frisk. Frisk awakens again shortly before the attack, recognising yet another time loop.",
+                "content": "Frisk travels through a distorted forest, stabs Sans in a panic, and survives multiple monster encounters, including Lesser Dog. Jerry rescues Frisk and invites them to a party, which turns violent when a mob attacks Jerry over insurance fraud, severely injuring Frisk. Frisk awakens again shortly before the attack, recognising yet another time loop.",
                 "class": "NUGGET"
             },
             {
@@ -210,7 +225,7 @@
             },
             {
                 "date": "December 27",
-                "content": "<b>Credits - The SiIvaGunner All-Star Nuclear Winter Festival</b> is released, concluding The SiIvaGunner All-Star Nuclear Winter Festival. The channel proceeds to go on a month-long hiatus, one of the longest since the channel's temporary termination (see January 4 - Feburary 28, 2019) and the Monochrome Pause (February 15 - April 5, 2017)"
+                "content": "<b>Credits - The SiIvaGunner All-Star Nuclear Winter Festival</b> is released, concluding The SiIvaGunner All-Star Nuclear Winter Festival. The channel proceeds to go on a month-long hiatus, one of the longest since the channel's temporary termination (see January 4 - Feburary 28, 2019) and the Monochrome Pause (see February 15 - April 5, 2017)"
             },
             {
                 "time": "December 25",

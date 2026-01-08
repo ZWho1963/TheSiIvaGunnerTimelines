@@ -16,6 +16,10 @@
                 "note": ""
             },
             {
+                "date": "January 15",
+                "content": "<b>Main Theme - e</b> is uploaded, marking the first time James Grime's \"e (Euler's Number)\" video is referenced on SiIvaGunner."
+            },
+            {
                 "date": "January 19",
                 "content": "VvvvvaVvvvvvr (known as Vavr for brevity) is created by Hintlord as a fan channel that combines \"the worst parts of the SiIva fan channels all in one channel\"."
             },
@@ -38,7 +42,7 @@
             },
             {
                 "date": "January 31",
-                "content": "The SiIvaGunner backroom team revives the dormant Mr. Rental/Mr. Own arc by following up on Mr. Own's scene from <b>Opening Scene - Waluigi's Tacostand</b>.",
+                "content": "The SiIvaGunner backroom team revives the dormant and unresolved Mashup Crusaders arc by following up on Mr. Own's scene from <b>Opening Scene - Waluigi's Tacostand</b>.",
                 "class": "double-entry"
             },
             {
@@ -210,7 +214,7 @@
             {
                 "date": "July 11",
                 "title": "Megalovania 2 - Undertale 2",
-                "content": "Whip and Nae Nae Day begins. Frisk fights Silentó(???)",
+                "content": "Whip and Nae Nae Day happens, having been originally scheduled for the 7th. Frisk fights Silentó(???)",
                 "class": "NUGGET"
             },
             {
@@ -285,14 +289,15 @@
                 "content": "<b>Anomalies, Portals and Fabrications [FILE-04]</b> is posted to the channel, passing off the many fake games that the channel had ripped as figments of SiIvaGunner's and The Voice's imagination - in the latter's case, they were made as an attempt to boost Christmas Spirit production."
             },
             {
-                "title": "FEATURE PRESENTATION",
-                "date": "Sometime before October 24",
-                "content": "Wood Man journeys to a universe created by Haltmann Works' AI testing to film a pitch trailer. Whilst filming, he stumbles across and unknowingly murders the Protegent Mascot, whom he mistook as an actor.",
-                "class": "AIRTH"
+                "date": "October 24",
+                "content": "Wood Man fields a pitch trailer to Haltmann for a planned movie of his, branding it as a <b>FEATURE PRESENTATION</b>, marking the start of the SilvaGunner Spooktacular Halloween Horror Special: Part II."
             },
             {
-                "date": "October 24",
-                "content": "Wood Man's pitch trailer is uploaded to the SiIvaGunner channel as <b>FEATURE PRESENTATION</b>, marking the start of the SilvaGunner Spooktacular Halloween Horror Special: Part II."
+                "title": "FEATURE PRESENTATION",
+                "time": "Sometime before October 24",
+                "timeclass": "AIRTH",
+                "content": "Wood Man journeys to a universe created by Haltmann Works' AI testing to film <b>FEATURE PRESENTATION</b>. Whilst filming, he stumbles across and unknowingly murders the Protegent Mascot, whom he mistook as an actor.",
+                "class": "AIRTH"
             },
             {
                 "date": "October 29",

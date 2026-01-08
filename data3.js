@@ -3,6 +3,10 @@
         "year": "2016",
         "events": [
             {
+                "date": "Sometime between September 11, 2015 and July 11, 2016",
+                "content": "User crimpsonfang9 requests 'five nights of snop dog' on Chaze the Chat's SoundCloud."
+            },
+            {
                 "date": "January 1",
                 "content": "Chaze the Chat releases a fakeout Soundclown combining the Gen 3 Battle theme from Pokemon with the Flintstones theme under the title new pokemon battle music LEAKED on dreammaker222 to annoy his friends; to his surprise, they actually like it."
             },
@@ -40,8 +44,13 @@
                 "content": "An hourly/half-hourly upload schedule for rips is implemented. Prior to this, rips were usually uploaded irregularly based on when they were finished by contributors."
             },
             {
+                "date": "March 21",
+                "title": "Circus Theme - Five Nights At Freddy's",
+                "content": "The track <i>Circus</i> from <i>Five Nights at Freddy's</i> is ripped for the first time. Over time, rips of <i>Circus</i> would eventually follow the trend of being switcheroo edits of other non-VGM songs (usually mainstream songs). As of writing, there are 486 rips of <i>Circus</i> on the channel."
+            },
+            {
                 "date": "March 30",
-                "content": "GiIvaSunner's Highest Quality Video Game Rips: Volume 1, is released, a compilation album containing noteworthy rips from the channel's first 2 months. As time goes on, albums are used more and more to compile event rips, although not exclusively. <span class=\"CCC\">Notably, the file names are corrupted.</span>"
+                "content": "<i>GiIvaSunner's Highest Quality Video Game Rips</i>: Volume 1, is released, a compilation album containing noteworthy rips from the channel's first 2 months. As time goes on, albums are used more and more to compile event rips, although not exclusively. <span class=\"CCC\">Notably, the file names are corrupted.</span>"
             },
             {
                 "date": "April - May",
@@ -136,7 +145,7 @@
                 "class": "double-entry"
             },
             {
-                "content": "The first phase of the Reboot ARG, the \"Father's Day ARG\", begins with the release of an album with the title \".\" and 17 tracks."
+                "content": "The first phase of the Reboot ARG, the \"Father's Day ARG\", begins with the release of an album with the title <i>.</i> and 17 tracks."
             },
             {
                 "date": "June 21",
@@ -197,6 +206,10 @@
                 "content": "Chad, while dead, is implied to still be watching and ensuring that all rips, or at least the <i>Snow halation</i> ones, are as quality as possible, as seen in <b>Want You Gone - Portal 2</b>."
             },
             {
+                "date": "July 11",
+                "content": "SiIvaGunner hosts a livestream named <b>SiIvaDirect (7/11/2016) - The World Premiere of a Brand New High Quality Rip</b>, premiering crimpsonfang9's requested rip (which would become <b>Main Theme - Five Nights at Freddy's</b>) and debuting the character of Mr. Rental, who would go on to play a big part in the Mashup Crusaders arc. "
+            },
+            {
                 "date": "July 15",
                 "title": "Main Theme - Looney Tunes",
                 "class": "PAINT",
@@ -205,6 +218,9 @@
             {
                 "date": "July 16",
                 "content": "<i>POKEMON GO SONG!!! by MISHA (FOR KIDS) [ORIGINAL]</i> is released."
+            },
+            {
+                "content": "The Mr. Rental section from July 11's SiIvaDirect is uploaded as <b>Opening Music - Mr Rental: The Video Game</b>"
             },
             {
                 "date": "July 17",
