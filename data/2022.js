@@ -90,6 +90,14 @@
                 "content": "Twitter artist @Mauzymice tweets a GIF of a talking cat character whose eyes become red and hypnotic."
             },
             {
+                "date": "July 15 - 18",
+                "content": "SiIvaGunner celebrates the 10th anniversary of <i>Gangnam Style</i> by hosting a channel event featuring songs by him."
+            },
+            {
+                "date": "July 18",
+                "content": "SGFR releases <i>PSY 9th Arrangements</i> as a part of PSY Day 7"
+            },
+            {
                 "date": "September 15",
                 "content": "Undertale's 7th Anniversary is celebrated through a channel event."
             },
@@ -103,7 +111,7 @@
                 "class": "NUGGET"
             },
             {
-                "content": "Frisk and Jerry flee Snowdin and survive in the wilderness by hunting monsters for food. They briefly find shelter in Snowdin Town, but Grillby, the Riverperson, and others appear glitched and hostile. Frisk narrowly survives repeated encounters with a recurring glitch figure and awakens in Hotland after escaping the Riverperson. Frisk attempts to run a hot dog stand with Heats Flamesman fail after Muffet burns it down.",
+                "content": "Frisk and Jerry flee Snowdin and survive in the wilderness by hunting monsters for food. They briefly find shelter in Snowdin Town, but Grillby, the Riverperson, and others appear glitched and hostile. Frisk narrowly survives repeated encounters with a recurring glitch figure and awakens in Hotland after escaping the Riverperson. Frisk's attempt to run a hot dog stand with Heats Flamesman fails after Muffet burns it down.",
                 "class": "NUGGET"
             },
             {
@@ -121,7 +129,8 @@
             {
                 "date": "October 26",
                 "title": "Intro - Wood Man's Halloween Party (ft. David S. Pumpkins)",
-                "content": "Wood Man may or may not have hosted a Halloween party at Dr. Wily's with the help of David S. Pumpkins. Wood Man gives him control of the channel so he can play <i>Mario Party 7</i> with Takane, Donkey Kong, and Angry Joe."
+                "content": "Wood Man may or may not have hosted a Halloween party at Dr. Wily's with the help of David S. Pumpkins. Wood Man gives him control of the channel so he can play <i>Mario Party 7</i> with Takane, Donkey Kong, and Angry Joe.",
+                "class": "AIRTH"
             },
             {
                 "date": "November 2",
@@ -188,7 +197,6 @@
                 "content": "In a nod to the <i>Majora's Mask</i> ROM-hack <i>The Legend of Cage: Beneath the Mask</i>, SiIvaGunner celebrates <i>The Legend of Cage: Beneath the Mask</i> Day, where the tradition of having every <i>Majora's Mask</i> OST Version rip contain Nicholas Cage as its joke is completed."
             },
             {
-                "date": "December 12",
                 "content": "Wood Man recalls a story told by Nicolas Cage for Day 19, who described being transported to a strange town of identical people beneath a crashing moon after encountering a masked wooden child.",
                 "class": "AIRTH"
             },
@@ -207,10 +215,12 @@
             },
             {
                 "date": "December 24",
-                "content": "On Day 30 of the groups travels, Wood Man remarks that they are only a day from the crater. However, Geno would now be turning back as he did not want to get close to the meteor again, but he left behind the drive with his locked-away memories as a parting gift, only to be accessed as a last resort."
+                "content": "On Day 30 of the groups travels, Wood Man remarks that they are only a day from the crater. However, Geno would now be turning back as he did not want to get close to the meteor again, but he left behind the drive with his locked-away memories as a parting gift, only to be accessed as a last resort.",
+                "class": "AIRTH"
             },
             {
-                "content": "The SiIva AI mysteriously shuts down at the end of the <b>Goodbye to a World Fusion Collab</b>."
+                "content": "The SiIva AI mysteriously shuts down at the end of the <b>Goodbye to a World Fusion Collab</b>.",
+                                "class": "AIRTH"
             },
             {
                 "date": "December 25",

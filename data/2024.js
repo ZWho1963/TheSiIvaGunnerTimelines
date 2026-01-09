@@ -4,7 +4,7 @@
         "events": [
             {
                 "date": "January 11",
-                "content": "A recap of the Christmas Comeback Crisis up to <b>I Love Her</b> is released on the channel in anticipation of Episode 11"
+                "content": "A recap of the Christmas Comeback Crisis up to <b>I Love Her</b> is released on the channel in anticipation of Episode 11."
             },
             {
                 "date": "January 12",
@@ -12,7 +12,7 @@
             },
             {
                 "title": "One Last Chance [Episode 11] - The SilvaGunner Christmas Comeback Crisis",
-                "content": "After recovering from the events of <b>I Love Her</b> (see December 25, 2017) in the tower's elevator, Smol Nozomi, Meta Knight and Santa Claus embark on a figment rescue mission. After encountering a similarly-minded Haruka Amami, they free Tito Dick, Sens, Felix the Cat and Donkey Kong. The trio attempt to free Grand Dad but fail, discovering a power siphon that leads to a higher floor. However, they are intercepted by Haltmann, who takes them to Floor 99. Within his lab, he reveals his desire to bring back Susie using the SiIva AI, whom he commands to attack the three.<br><br>The AI summons the Fighting Reject Team to buy time whilst charging up an energy blast; Meta Knight sacrifices himself to redirect the blast to Haltmann's vessel but is saved by Nozomi - the energy blast hits (see <b>The SiIvaGunner All-Star Nuclear Winter Festival</b> December 1, 2022), exposing Haltmann's computer, which Santa fails to destroy. Nozomi then hijacks Haltmann's vessel to overload the AI (see <b>Goodbye to a World Fusion Collab</b>December 24, 2022) and forces it to shut down, leaving Haltmann thoroughly defeated. Santa offers him a chance at redemption, but he is killed by The Voice - since he was a figment, all memory of him is erased.<br><br>The Voice summons the trio to Floor 100, where he surrounds them with an overwhelming force of guards, Spherics and Stringbots - a fight ensues, but it is interrupted by the rescued figments plus Grand Dad, who manage to overpower the troops. Grand Dad attempts to knock out The Voice, but is blasted out of the tower by a laser gun, turning the tide of battle back in his favor; he then tables terms of surrender to the heroes, which they refuse. As The Voice is about to deliver the final blow, Haruka appears with the wounded Grand Dad as the trio sense SiIvaGunner - who had felt Grand Dad's pain - awakening...",
+                "content": "After recovering from the events of <b>I Love Her</b> (see December 25, 2017) in the tower's elevator, Smol Nozomi, Meta Knight and Santa Claus embark on a figment rescue mission. After encountering a similarly-minded Haruka Amami, they free Tito Dick, Sens, Felix the Cat and Donkey Kong. The trio attempt to free Grand Dad but fail, discovering a power siphon that leads to a higher floor. However, they are intercepted by Haltmann, who takes them to Floor 99. Within his lab, he reveals his desire to bring back Susie using the SiIva AI, whom he commands to attack the three.<br><br>The AI summons the Fighting Reject Team to buy time whilst charging up an energy blast; Meta Knight sacrifices himself to redirect the blast to Haltmann's vessel but is saved by Nozomi - the energy blast hits (see <b>The SiIvaGunner All-Star Nuclear Winter Festival</b>, December 1, 2022), exposing Haltmann's computer, which Santa fails to destroy. Nozomi then hijacks Haltmann's vessel to overload the AI (see <b>Goodbye to a World Fusion Collab</b>, December 24, 2022) and forces it to shut down, leaving Haltmann thoroughly defeated. Santa offers him a chance at redemption, but he is killed by The Voice - since he was a figment, all memory of him is erased.<br><br>The Voice summons the trio to Floor 100, where he surrounds them with an overwhelming force of guards, Spherics and Stringbots - a fight ensues, but it is interrupted by the rescued figments plus Grand Dad, who manage to overpower the troops. Grand Dad attempts to knock out The Voice, but is blasted out of the tower by a laser gun, turning the tide of battle back in his favor; he then tables terms of surrender to the heroes, which they refuse. As The Voice is about to deliver the final blow, Haruka appears with the wounded Grand Dad as the trio sense SiIvaGunner - who had felt Grand Dad's pain - awakening...",
                 "class": "CCC"
             },
             {
@@ -36,7 +36,7 @@
             },
             {
                 "date": "February 4",
-                "content": "GoLub released a video which features three characters being deepfaked into singing <i>Cotton Eye Joe</i> including the Gedagedigedagedago nugget."
+                "content": "GoLub releases a video which features three characters being deepfaked into singing <i>Cotton Eye Joe</i> including the Gedagedigedagedago nugget."
             },
             {
                 "date": "February 7",
@@ -71,7 +71,7 @@
             },
             {
                 "date": "April 1",
-                "content": "The channel holds an event dedicated to “X but Y” videos and similar algorithm-baiting content for April Fools' Day 2024. During the event, <b>Boykisser, Pomni, & Gegagedigedagedago but it's Famous Console Startups<b> is uploaded, <span class=\"NUGGET\">establishing a relationship between the three characters in future lore material.</span>"
+                "content": "The channel holds an event dedicated to “X but Y” videos and similar algorithm-baiting content for April Fools' Day 2024. During the event, <b>Boykisser, Pomni, & Gegagedigedagedago but it's Famous Console Startups</b> is uploaded, <span class=\"NUGGET\">establishing a relationship between the three characters in future lore material.</span>"
             },
             {
                 "title": "Spamton's Theme but it's Kitchen Gun",
@@ -97,7 +97,7 @@
                 "date": "April 2",
                 "title": "Take On Me but it's in the Super Mario 64 Soundfont (Music Video)",
                 "content": "Evil as Shit Brainless is unleashed at the Bunty Bailey and begins transforming everyone there into Brainlesses. Silentó receives news of Evil as Shit Brainless' release and travels to his lair to stop him. After killing Evil as Shit Brainless, Silentó celebrates his victory with Nice Brainless and the numberphile.",
-                "class": ""
+                "class": "NUGGET"
             },
             {
                 "date": "April 4",
@@ -153,7 +153,7 @@
             },
             {
                 "date": "July 25",
-                "content": "Many people discover that Charlie, the Steak is lost media. A search for the game is started.",
+                "content": "Many people discover that <i>Charlie, the Steak</i> is lost media. A search for the game is started.",
             },
             {
                 "date": "July 29",
@@ -163,7 +163,7 @@
             },
             {
                 "date": "August 2",
-                "content": "Charlie, the Steak is found and its IPA file is shared on the Internet Archive. ",
+                "content": "<i>Charlie, the Steak</i> is found and its IPA file is shared on the Internet Archive. ",
                 "class": ""
             },
             {
@@ -187,10 +187,6 @@
             {
                 "date": "September 13",
                 "content": "SiIvaGunner posts to social media that a super-event dedicated to students returning to school during the month of September would take place over the course of the week from September 23 to September 27. According to said posts, each day during the super-event would have its own theme, and submissions for the sub-events would be accepted until September 22 at 11:59 PST."
-            },
-            {
-                "date":"September 13 - 21",
-                "content": "A wave of rips featuring <i>Hot Cross Buns</i> as their jokes are uploaded to the SiIvaGunner channel."
             },
             {
                 "date": "September 23",

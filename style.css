@@ -5,24 +5,28 @@
 	font-style: normal;
 	src: url(fonts/Rodin-Regular.ttf) format("truetype");
 }
+
 @font-face {
 	font-family: 'Rodin-Bold';
 	font-weight: bold;
 	font-style: normal;
 	src: url(fonts/Rodin-Bold.ttf) format("truetype");
 }
+
 @font-face {
 	font-family: 'Seurat DB';
 	font-weight: normal;
 	font-style: normal;
 	src: url(fonts/FOT-SeuratPro-DB.otf) format("opentype");
 }
+
 @font-face {
 	font-family: 'Seurat M';
 	font-weight: normal;
 	font-style: normal;
 	src: url(fonts/FOT-SeuratPro-M.otf) format("opentype");
 }
+
 @font-face {
 	font-family: 'Nukamisto';
 	font-weight: normal;
@@ -46,7 +50,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-    width: 0px;
+	width: 0px;
 }
 
 p {
@@ -62,7 +66,8 @@ h3 {
 	color: #888888;
 }
 
-h4, .title {
+h4,
+.title {
 	margin-left: 0px;
 	margin-top: 0;
 	color: #888888;
@@ -76,7 +81,10 @@ h4, .title {
 
 .archive {
 	color: yellow;
-};
+}
+
+;
+
 .date {
 	color: #888888;
 }
@@ -103,42 +111,82 @@ table {
 .double-entry {
 	margin-bottom: 1em;
 }
+
 .AIRTH {
 	color: #60D6A9;
 }
+
 .CCC {
 	color: #8256B8;
 }
+
 .KIRBY {
 	color: #DF6BDF;
 }
+
 .PAINT {
 	color: #008080;
 }
+
 .OTHER {
 	color: #888;
 }
+
 .FOOLS {
 	color: #a64d79;
 }
+
 .NUGGET {
 	color: #E6A84B;
 }
+
 .GORK {
 	color: #D5CAB0;
 }
+
 .SPIDA {
 	color: #F8DD85;
 }
+
 .HCB {
-  color: #4d7780;
+	color: #4d7780;
 }
+
 .KITTY {
- color: #d5a6bd;
+	color: #d5a6bd;
 }
+
 .RESPH {
 	color: #97659c;
 }
+
 .NOAKA {
 	color: #8a80b1;
+}
+
+#scanlines {
+	mix-blend-mode: luminosity;
+	top: 0;
+	left: 0;
+	position: absolute;
+	width: 100%;
+	filter: hue-rotate(200deg);
+	opacity: 30%;
+	height: 100%;
+	background-repeat: repeat;
+	background-position-y: 2px;
+	animation: move 1s linear 0s forwards infinite;
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABXSURBVDhPrdKhDYBgDEThKzRIBCuhWQjPRlhWIgENhP7JjfA+9dSJpvEqT4HiUbe7EfEpVzeiBvvZjahBjW5EG5zciBocFjei3XBzI9ofHm5EXMrbDZB+9YgPBHp56akAAAAASUVORK5CYII=');
+	pointer-events: none;
+	z-index: 9999;
+}
+
+@keyframes move {
+	from {
+		background-position-y: 0px;
+	}
+
+	to {
+		background-position-y: 10px;
+	}
 }

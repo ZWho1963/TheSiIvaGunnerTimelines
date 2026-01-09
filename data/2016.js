@@ -8,7 +8,7 @@
             },
             {
                 "date": "January 1",
-                "content": "Chaze the Chat releases a fakeout Soundclown combining the Gen 3 Battle theme from Pokemon with the Flintstones theme under the title new pokemon battle music LEAKED on dreammaker222 to annoy his friends; to his surprise, they actually like it."
+                "content": "Chaze the Chat releases a fakeout Soundclown combining the Gen 3 Battle theme from Pokemon with the Flintstones theme under the title <i>new pokemon battle music LEAKED</i> on dreammaker222 to annoy his friends; to his surprise, they actually like it."
             },
             {
                 "date": "Sometime between January 2 and 9",
@@ -112,12 +112,12 @@
             },
             {
                 "title": "Megalovania (Beta Mix) - EarthBound Halloween Hack",
-                "content": "Chad Warden uploads a follow-up video, explaining how the Snow halation haters should leave rips featuring the song alone, and that it has - and always will be - a part of the channel's history.",
+                "content": "Chad Warden uploads a follow-up video, explaining how the <i>Snow halation</i> haters should leave rips featuring the song alone, and that it has - and always will be - a part of the channel's history.",
                 "class": "CCC"
             },
             {
                 "date": "June 9",
-                "content": "The SiIvaGunner channel celebrates the character Nozomi Tojo's birthday; all rips on this day are related to Love Live! School Idol Festival, and also established the format of character-dedicated Snow Halation Rips.",
+                "content": "The SiIvaGunner channel celebrates the character Nozomi Tojo's birthday; all rips on this day are related to Love Live! School Idol Festival, and also established the format of character-dedicated <i>Snow halation</i> Rips.",
                 "class": "double-entry"
             },
             {
@@ -132,7 +132,7 @@
             {
                 "date": "June 17",
                 "title": "Now Rebooting - SilvaGunner: Rebooted",
-                "content": "The community discourse over Snow Halation reaches critical overload, and SiIvaGunner is rebooted into a new universe after using his new ripping software.<br><br>The Flintstones, \"Snow halation\", and the Loud [Friend] Scream are replaced with The Simpsons/Family Guy, \"GO MY WAY!!\", and the Howie Scream, respectively.",
+                "content": "The community discourse over <i>Snow halation</i> reaches critical overload, and SiIvaGunner is rebooted into a new universe after using his new ripping software.<br><br><i>The Flintstones</i>, </i>Snow halation</i>, and the Loud [Friend] Scream are replaced with The Simpsons/Family Guy, \"GO MY WAY!!\", and the Howie Scream, respectively.",
                 "class": "CCC"
             },
             {
@@ -167,7 +167,7 @@
                 "title": "Now Rebooting - SiIvaGunner: Rebooted",
                 "time": "June 17, during and immediately after Intro - SiIvaGunner: Rebooted",
                 "timeclass": "CCC",
-                "content": "Chad Warden notices the change in jokes. He is promptly confronted by The Voice Inside Your Head, who tells Chad that he reshaped the universe due to the negative feedback towards Snow halation."
+                "content": "Chad Warden notices the change in jokes. He is promptly confronted by The Voice Inside Your Head, who tells Chad that he reshaped the universe due to the negative feedback towards <i>Snow halation</i>."
             },
             {
                 "date": "July 2",
@@ -182,11 +182,11 @@
                 "time": "July 7",
                 "timeclass": "CCC",
                 "title": "A Grand New Era ~Ending~ - SilvaGunner: Rebooted",
-                "content": "Chad Warden reluctantly accepts The Voice's deal to merge the universes with the exception of Snow halation, bringing an apparent end to the reboot.",
+                "content": "Chad Warden reluctantly accepts The Voice's deal to merge the universes with the exception of <i>Snow halation</i>, bringing an apparent end to the reboot.",
                 "class": "CCC double-entry"
             },
             {
-                "content": "Channel discourse surprisingly turns back in favor of Snow Halation in the aftermath of the ending's release.<br><br>After a brief period of tension, the solvers of the Reboot ARG uncover its second phase, the \"Reboot Ending ARG\".",
+                "content": "Channel discourse surprisingly turns back in favor of <i>Snow halation</i> in the aftermath of the ending's release.<br><br>After a brief period of tension, the solvers of the Reboot ARG uncover its second phase, the \"Reboot Ending ARG\".",
                 "class": "double-entry"
             },
             {
@@ -198,7 +198,7 @@
                 "title": "Melody of the Heart ~True Ending~ - SilvaGunner: Rebooted",
                 "time": "July 7, immediately after <b>A Grand New Era</b>",
                 "timeclass": "CCC",
-                "content": "Chad Warden explains to The Voice why <i>Snow halation</i> is important to the channel, and that the haters don't matter. The Voice publicly reveals that he had sent JustinRPG to wreak havoc on the world. Chad Warden then uses the power of The MF Like Button to bring Snow halation back and defeat The Voice at the cost of his own life.",
+                "content": "Chad Warden explains to The Voice why <i>Snow halation</i> is important to the channel, and that the haters don't matter. The Voice publicly reveals that he had sent JustinRPG to wreak havoc on the world. Chad Warden then uses the power of The MF Like Button to bring <i>Snow halation</i> back and defeat The Voice at the cost of his own life.",
                 "class": "CCC double-entry"
             },
             {
@@ -220,7 +220,7 @@
                 "content": "<i>POKEMON GO SONG!!! by MISHA (FOR KIDS) [ORIGINAL]</i> is released."
             },
             {
-                "content": "The Mr. Rental section from July 11's SiIvaDirect is uploaded as <b>Opening Music - Mr Rental: The Video Game</b>"
+                "content": "The Mr. Rental section from July 11's SiIvaDirect is uploaded as <b>Opening Music - Mr Rental: The Video Game</b>."
             },
             {
                 "date": "July 17",
@@ -377,7 +377,7 @@
                 "content": "Mr. Rental goes into town while his car is stuck in the shop, so he is stuck with the crappily-drawn car instead, a car that can warp between universes. Naturally, he finds this out the hard way. He lands in the MS Paint universe, and his car blows up. He notes how the MS Paint universe looks almost exactly like his universe, and tries to find his way back home. He eventually comes across Mr. Own's store and his office, becoming aware of his intentions to ban all mashups. Rental disagrees with Own's stance that all mashups sound bad, and Own threatens to kill him in response. They fight, with Rental winning and blowing his counterpart's face clean off. "
             },
             {
-                "note": "The events described are not a part of the SiIvaGunner canon, but they are important to consider in relation to the Mr. Rental/Mr. Own arc."
+                "note": "The events described are not a part of the SiIvaGunner canon, but they are important to consider in relation to the Mashup Crusaders arc."
             },
             {
                 "date": "October 29",

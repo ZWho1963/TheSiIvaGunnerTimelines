@@ -13,7 +13,7 @@
             },
             {
                 "date": "January 4",
-                "content": "<i>Doki Doki Literature Club!</i> first appears as a joke on SiIvaGunner"
+                "content": "<i>Doki Doki Literature Club!</i> first appears as a joke on SiIvaGunner."
             },
             {
                 "date": "January 6",

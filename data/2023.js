@@ -20,7 +20,7 @@
             },
             {
                 "date": "February 1",
-                "content": "SiIvaGunner returns from its 36-day hiatus with <b>The Disappearance of Wood Man</b>, the closing vieo of Season 6. Shortly thereafter, the rip <b>Super Sonic Racing - Sonic R</b>, immediately beginning Season 7: The Year of Grand Dad."
+                "content": "SiIvaGunner returns from its 36-day hiatus with <b>The Disappearance of Wood Man</b>, the closing vieo of Season 6. Shortly thereafter, the rip <b>Super Sonic Racing - Sonic R</b> is uploaded, immediately beginning Season 7: The Year of Grand Dad."
             },
             {
                 "title": "The Disappearance of Wood Man - A SiIvaGunner Christmas Comeback Crisis Side Story",
@@ -84,7 +84,7 @@
             },
             {
                 "date": "August 14",
-                "content": "The Brainless Kitty is introduced in the rip <b>Pathetic House (Sigma Mix) - Undertale</b>",
+                "content": "The Brainless Kitty is introduced in the rip <b>Pathetic House (Sigma Mix) - Undertale</b>.",
                 "class": "NUGGET"
             },
             {
@@ -96,6 +96,11 @@
                 "title": "How Does It Feel? - Maroon GO",
                 "content": "The president of the world decides that Labor Day is illegal. Nickelodeon and Silentó drift apart due to being unable to have magical Labor Day adventures. They have an argument, and the once-friends go their separate ways.",
                 "class": "SPIDA"
+            },
+            {
+                "date":"September 13 - 21",
+                "content": "A wave of rips featuring <i>Hot Cross Buns</i> as their jokes are uploaded to the SiIvaGunner channel.",
+                "class": "HCB"
             },
             {
                 "date": "October 2 - 7",
@@ -152,7 +157,8 @@
             },
             {
                 "date": "November 29",
-                "content": "SiivaGunner uploads 10 Fisher-Price rips relating to traditional nursery rhymes for one hour only."
+                "content": "SiIvaGunner uploads 10 Fisher-Price rips relating to traditional nursery rhymes for one hour only.",
+                "class": "NUGGET",
             },
             {
                 "date": "December 12",

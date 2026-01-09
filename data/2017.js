@@ -4,7 +4,7 @@
         "events": [
             {
                 "date": "January 3",
-                "content": "Due to complications in the development of the CCC, a fakeout episode called <b>Large Gains [Episode 7] - The SiIvaGunner Christmas Comeback Crisis</b> is released (renamed later to <b>Virtical Point - Yakuza Kiwami</b>), consisting of Chaze the Chat and PoliSlix instructing the audience on how to get a workout with their Bowflex machines."
+                "content": "Due to complications in the development of the CCC, a fakeout episode called <b>Large Gains [Episode 7]</b> is released (renamed later to <b>Virtical Point - Yakuza Kiwami</b>), consisting of Chaze the Chat and PoliSlix instructing the audience on how to get a workout with their Bowflex machines."
             },
             {
                 "date": "January 9",
@@ -84,7 +84,7 @@
             },
             {
                 "date": "April 3",
-                "content": "SiIvaGunner celebrates Haruka Amami's birthday. <span class=\"CCC\">Wood Man expresses confusion as to how these rips were uploaded, eventually chalking it up to The Voice having them scheduled the days before the pause.</span>"
+                "content": "SiIvaGunner celebrates Haruka Amami's birthday. <span class=\"CCC\">Wood Man expresses confusion as to how these rips were uploaded, eventually chalking it up to The Voice having them scheduled in the days before the pause.</span>"
             },
             {
                 "date": "April 5",

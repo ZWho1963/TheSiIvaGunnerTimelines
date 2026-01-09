@@ -137,7 +137,7 @@ export const data2015 = [
             },
             {
                 "date": "June 13",
-                "content": "A SoundCloud user by the handle 8-Bit Beast releases his hit single <i>Haunted House</i>, also known as <i>Castle Boss</i>.\""
+                "content": "A SoundCloud user by the handle 8-Bit Beast releases his hit single <i>Haunted House</i>, also known as <i>Castle Boss</i>."
             },
             {
                 "date": "June 23",
@@ -158,7 +158,7 @@ export const data2015 = [
         "events": [
             {
                 "date": "January 8",
-                "content": "YouTube user CreepyPasta CriticasLoquendo uploads a video entitled \"Marcianito 100% real bailando cumbia.wmv\"."
+                "content": "YouTube user CreepyPasta CriticasLoquendo uploads a video entitled <i>Marcianito 100% real bailando cumbia.wmv</i>"
             },
             {
                 "date": "June 1",
