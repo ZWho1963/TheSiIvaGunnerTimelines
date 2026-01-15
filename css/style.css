@@ -8,6 +8,7 @@
 	border-bottom: 2px #ddd solid;
 	transition: 3s;
 	top: -186px;
+	font-family: 'Aldrich';
 }
 
 #audio, #file_click {
@@ -17,8 +18,13 @@
 #select {
 	background-color: inherit;
 	margin: auto;
-	text-align: center;
+	text-align: left;
 	width: fit-content;
+	width: 1046px;
+
+	label {
+		padding-inline: .33em;
+	}
 }
 
 

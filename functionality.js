@@ -1,3 +1,0 @@
-﻿function removedata2000() {
-
-}

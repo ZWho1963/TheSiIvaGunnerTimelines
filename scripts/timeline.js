@@ -126,25 +126,27 @@ Array.from(form.elements).forEach((input) => {
     }
 });
 
-if (data_count === 1) {
-
-}
 form.addEventListener("change", (event) => {
     const checkbox = event.target;
     const key = checkbox.getAttribute("name");
+    // Compute checked checkboxes
+    const checkedBoxes = Array.from(form.elements)
+    .filter(el => el.type === "checkbox" && el.checked);
 
+    let data_count = checkedBoxes.length;
 
+    // Update dataset based on this checkbox
     if (checkbox.checked) {
-        // Add dataset back
-        toggleDataset(key, true); // true = show
-        data_count += 1;
-    } else if (data_count !== 1) {
-        // Remove dataset
-        toggleDataset(key, false); // false = hide
-        data_count -= 1;
+        toggleDataset(key, true);
+    } else if (data_count >= 1) {
+        toggleDataset(key, false);
     } else {
+        checkbox.checked = true;
+        alert("You can't have an empty timeline!")
         return;
     }
+    console.log(data_count);
+
 });
 
 function toggleDataset(key, show) {
