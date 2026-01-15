@@ -70,7 +70,7 @@ body {
     top: 0;
     left: 0;
 	z-index: 0;
-	background-image: url('/miscellaneous/sg10.svg');
+	background-image: url('../miscellaneous/sg10.svg');
   	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 33vw 33vw;
