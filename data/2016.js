@@ -162,12 +162,21 @@
                 "content": "<b>Title Theme (Vocal Mix) - Wolf girl</b> with you is uploaded to the channel. The character of Wolfgirl is introduced, portrayed in A Murder Not Too Nice as being Nick Oleksiak dressed up in a Liru costume."
             },
             {
+                "title": "Title Screen - Mario Forever",
+                "content": "The Google Translate lady reads out poorly written excerpts and SEO tags from Softendo’s website."
+            },
+            {
                 "note": "Now Rebooting - SiIvaGunner: Rebooted is the first lore rip (chronologically speaking) that occurs in a non-linear fashion, which in this case means that it doesn't take place on its upload date. A date in italicised brackets will symbolise when rips like this happen in-universe.",
                 "date": "June 26",
                 "title": "Now Rebooting - SiIvaGunner: Rebooted",
                 "time": "June 17, during and immediately after Intro - SiIvaGunner: Rebooted",
                 "timeclass": "CCC",
                 "content": "Chad Warden notices the change in jokes. He is promptly confronted by The Voice Inside Your Head, who tells Chad that he reshaped the universe due to the negative feedback towards <i>Snow halation</i>."
+            },
+            {
+                "date": "June 30",
+                'title': "Title Screen - Mario Forever",
+                "content": "The Google Translate lady reads out poorly written excerpts and SEO tags from Softendo’s website.",
             },
             {
                 "date": "July 2",

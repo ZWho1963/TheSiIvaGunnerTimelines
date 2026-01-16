@@ -236,7 +236,16 @@
                 "class": "NUGGET"
             },
             {
+                "date": "August 29",
+                "time": "June 23, 2016, or thereabouts",
+                "timeclass": "OTHER",
+                "title": "Title Screen - New Super Mario Forever 2012",
+                "content": "The Google Translate lady continues reading excerpts from Softendo’s website and strange video titles from his YouTube channel, until Buziol Games appears and shoots the Google Translate lady, saying \"This cannot go on forever. It must be stopped.\""
+            },
+            {
                 "date": "September 15",
+                "time": "Sometime after June 23, 2016",
+                "timeclass": "OTHER",
                 "title": "Title Screen - Mario Forever Remake",
                 "content": "Buziol Games laments the loss of the integrity of his game before saying he's coming for Softendo.",
                 "class": "OTHER"
@@ -259,6 +268,8 @@
             {
                 "date": "October 7",
                 "title": "Apoplexy (World 8 Tanks) - Mario Forever",
+                "time": "Sometime after June 23, 2016 / Sometime in 2019",
+                "timeclass": "OTHER",
                 "content": "Softendo and Buziol Games finally meet. Softendo boasts that he can't be stopped, citing the satisfaction of his customers. Buziol Games, in response, tells him that he isn't a corporation and that he ruined his game. Softendo tells him he'll be \"downloaded to hell\" and the two begin fighting.<br><br>Softendo ends up winning against Buziol, stabbing him. Three years later, when he's working on the next update to the game, someone alerts him of old content still inside the source code that needs to be removed. Softendo goes to check it out, finding himself watching the credits of the game. He starts to remember who he used to be, and becomes angry that he turned his game into what it is today. Softendo, now Buziol Games, goes back in time to try and stop himself.",
                 "class": "OTHER"
             },

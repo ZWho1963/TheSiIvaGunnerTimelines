@@ -548,7 +548,7 @@
                 "title": "The Solution - e",
                 "time": "November 28, almost if not immediately after the events of <b>The Problem</b>",
                 "timeclass": "NUGGET",
-                "content": "The ARG solvers lock in and solve the problem posed by Gegagedi, providing the Unix timecode 1485883800, referring to January 31, 2017 (this will be explained later); the Omegas then successfully relay the message. Sometime after, the Numberphile's computer later receives another mysterious e-mail, this time directed towards the Omegas themselves. Gedagedi picks up on the e-mail's implication that there may be a way to revive Numberphile. This idea snapped him out of his depressive stupor and allowed him to host Gedagsgiving.",
+                "content": "The ARG solvers lock in and solve the problem posed by Gegagedi, providing the Unix timecode 1485883800, referring to January 31, 2017 (this will be explained later); the Omegas then successfully relay the message. Sometime after, the Numberphile's computer later receives another mysterious e-mail, this time directed towards the Omegas themselves. Gedagedi picks up on the e-mail's implication that there may be a way to revive the Numberphile, snapping him out of his depressive stupor.",
                 "class": "NUGGET"
             },
             {

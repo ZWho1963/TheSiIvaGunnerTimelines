@@ -57,7 +57,7 @@
                 "title": "Main Theme - Kirby Fighters Deluxe",
                 "time": "Some time in the 2000s, before the events of <b>Main Theme - Kirby Fighters 2</b>",
                 "timeclass": "KIRBY",
-                "content": "Kirby wakes up Monochrome Kirby. They squabble for a bit over Kirby's method of waking up Monochrome Kirby before they go to Waddlemart soon after. Monochrome Kirby is tasked with finding a dildo and asks Mr. L for help. Mr. L kidnaps Monochrome Kirby and requests Kirby to meet him in the back and give him all his money, or else Monochrome Kirby dies. <br><br>Kirby throws his grocery basket at Mr. L, who decides to mug him for all he's worth upon realizing Kirby has cocaine. Mr. L pulls out a gun and mocks him for believing he could even stand a chance, although Kirby wins via stabbing him with a pixelated dildo. <br><br><span class=\"OTHER\">In the April Fool's version of this video, Kirby lets Monochrome Kirby sleep. This triggers the secret ending. Awesome.</span>",
+                "content": "Kirby wakes up Monochrome Kirby. They squabble for a bit over Kirby's method of waking up Monochrome Kirby before they go to Waddlemart soon after. Monochrome Kirby is tasked with finding a dildo and asks Mr. L for help. Mr. L kidnaps Monochrome Kirby and requests Kirby to meet him in the back and give him all his money, or else Monochrome Kirby dies. <br><br>Kirby throws his grocery basket at Mr. L, who decides to mug him for all he's worth upon realizing Kirby has cocaine. Mr. L pulls out a gun and mocks him for believing he could even stand a chance, although Kirby wins via stabbing him with a pixelated dildo.",
                 "class": "KIRBY"
             },
             {

@@ -182,7 +182,7 @@ export const data2000 = [
         "events": [
             {
                 "date": "December 25",
-                "content": "Weird Al Yankovic releases 'My Bologna', a parody of the Knack's 'My Sharona'."
+                "content": "Weird Al Yankovic releases <i>My Bologna</i>, a parody of the Knack's <i>My Sharona</i>."
             }
         ]
     },
@@ -414,7 +414,7 @@ export const data2000 = [
         "events": [
             {
                 "date": "November 17",
-                "content": "<i>mm2wood.mid</i>, a badly done Windows MIDI cover of 'Wood Man Stage' from <i>Mega Man 2</i>, is created, <span style=color: #6735a5>planting the seeds that would later manifest as the Wood Man glitch."
+                "content": "<i>mm2wood.mid</i>, a badly done Windows MIDI cover of 'Wood Man Stage' from <i>Mega Man 2</i>, is created."
             },
             {
                 "date": "December 25",

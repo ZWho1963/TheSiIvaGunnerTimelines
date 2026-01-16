@@ -86,7 +86,7 @@
                 "time": "Sometime in the 2000s",
                 "timeclass": "KIRBY",
                 "title": "Main Theme - Kirby Fighters 2",
-                "content": "Kirby and Monochrome Kirby debate fast food restaurants, until Waluigi's Taco Stand rolls into the area. He advertises the Green de la Bean Burrito Special, although Monochrome Kirby orders an Indian Taco instead. <br><br>Monochrome Kirby's reaction to the taco burns both Kirby and Waluigi. Waluigi states that Monochrome Kirby \"will pay for this\", and they begin fighting. Halfway through, however, <span class = \"CCC\">Kirby snatches the time-traveling/interdimensional taco and sends Waluigi to the CCC, and the Garlic Taco alters Waluigi's memory so that he forgets how to make tacos.</span>",
+                "content": "Kirby and Monochrome Kirby debate fast food restaurants, until Waluigi's Taco Stand rolls into the area. He advertises the Green de la Bean Burrito Special, although Monochrome Kirby orders an Indian Taco instead. <br><br>Monochrome Kirby's reaction to the taco burns both Kirby and Waluigi. Waluigi states that Monochrome Kirby \"will pay for this\", and they begin fighting. Halfway through, however, Kirby snatches the time-traveling/interdimensional taco, creates a portal and sends Waluigi through it to an unknown fate.",
                 "class": "KIRBY"
             },
             {
