@@ -7,6 +7,7 @@
 	background-color: rgba(16, 16, 16, 0.85);
 	border-bottom: 2px #ddd solid;
 	transition: 3s;
+	top: -207px;
 	font-family: 'Aldrich';
 	z-index: 2;
 }
@@ -106,7 +107,7 @@ h4,
 #timeline {
 	width: 67%;
 	margin-top: 225px;
-	opacity: 1;
+	opacity: 0;
 }
 
 #timeline_container {
