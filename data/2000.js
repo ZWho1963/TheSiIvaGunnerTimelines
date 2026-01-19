@@ -1,4 +1,4 @@
-export const data2000 = [
+export let data2000 = [
     {
         "year": "270",
         "events": [

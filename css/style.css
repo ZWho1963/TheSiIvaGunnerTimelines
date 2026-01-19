@@ -7,8 +7,18 @@
 	background-color: rgba(16, 16, 16, 0.85);
 	border-bottom: 2px #ddd solid;
 	transition: 3s;
-	top: -207px;
 	font-family: 'Aldrich';
+	z-index: 2;
+}
+
+.mytooltip {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	background-color: color-mix(in srgb, var(--new_order_gray) 67%, #090909 33%);
+	border-radius: 5px;
+	padding: 2px;
+	z-index: 1;
 }
 
 #legend {
@@ -17,7 +27,8 @@
 	text-align: left;
 }
 
-#audio, #file_click {
+#audio,
+#file_click {
 	display: none;
 }
 
@@ -43,12 +54,12 @@
 
 
 button {
-	color: #ddd;
+	color: var(--offwhite);
 	font-size: 1em;
 }
 
 body {
-	color: #ddd;
+	color: var(--offwhite);
 	margin: 0;
 	overflow: hidden;
 }
@@ -59,6 +70,7 @@ body {
 
 p {
 	margin: 0;
+	color: var(--offwhite);
 	font-size: 1em;
 }
 
@@ -66,40 +78,40 @@ h3 {
 	font-size: 1.5em;
 	margin-top: 0px;
 	margin-bottom: 20px;
-	color: gray;
+	color: color-mix(in srgb, var(--offwhite) 50%, gray 50%);
 }
 
 h4,
 .title {
 	margin-left: 0px;
 	margin-top: 0;
-	color: gray;
+	color: color-mix(in srgb, var(--offwhite) 50%, gray 50%);
 }
 
 .note {
 	font-style: italic;
 	margin-bottom: 20px;
-	color: gray;
+	color: color-mix(in srgb, var(--offwhite) 50%, gray 50%);
 }
 
 .archive {
-	color: #ddd;
+	color: var(--offwhite);
 }
 
 
 .date {
-	color: gray;
+	color: color-mix(in srgb, var(--offwhite) 50%, gray 50%);
 }
 
 #timeline {
 	width: 67%;
 	margin-top: 225px;
-	opacity: 0;
+	opacity: 1;
 }
 
 #timeline_container {
 	height: 100vh;
-	overflow-y: hidden;
+	overflow-y: auto;
 	overflow-x: hidden;
 	scrollbar-width: none;
 }
@@ -108,6 +120,7 @@ h4,
 	font-size: 1em;
 	margin-left: 2em;
 	margin-bottom: 20px;
+	color: var(--offwhite);
 }
 
 tr {
@@ -152,7 +165,7 @@ table {
 }
 
 .GORK {
-	color: #E3DAC9;
+	color: #CCC2BA;
 }
 
 .SPIDA {
@@ -180,8 +193,10 @@ table {
 	margin-top: 2em;
 	margin-left: 2em;
 	white-space-collapse: collapse;
-	p, span {
-		display:inline;
+
+	p,
+	span {
+		display: inline;
 	}
 }
 

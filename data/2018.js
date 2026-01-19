@@ -1,4 +1,4 @@
-﻿export const data2018 = [
+﻿export let data2018 = [
     {
         "year": "2018",
         "events": [
@@ -95,7 +95,7 @@
             },
             {
                 "title": "The Joke-Explainer™ 7000 [FILE-11] - Haltmann's Archives",
-                "content": "A detailed description of the Joke-Explainer™ 7000 reveals that she was created by Chad Warden on June 1, 2016 to (quite obviously) explain the obscure jokes behind SiIvaGunner rips. Dr. Andonuts (revealed to be the writer behind the FILEs) remarks on some of her more mysterious attributes, such as her knowledge of a 'world beyond ours' and power source, the latter of which has remained a mystery to this day. Andonuts ends the file by resolving to keep her hidden from Haltmann to study her more.",
+                "content": "A detailed description of The Joke-Explainer™ 7000 reveals that she was created by Chad Warden on June 1, 2016 to (quite obviously) explain the obscure jokes behind SiIvaGunner rips. Dr. Andonuts (revealed to be the writer behind the FILEs) remarks on some of her more mysterious attributes, such as her knowledge of a 'world beyond ours' and power source, the latter of which has remained a mystery to this day. Andonuts ends the file by resolving to keep her hidden from Haltmann to study her more.",
                 "class": "CCC"
             },
             {

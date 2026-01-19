@@ -5,7 +5,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/root.css">
 	<link rel="stylesheet" href="css/normalize.css">
-	<link rel="stylesheet" href="css/ttnwdashboard.css">
+    <link rel="stylesheet" href="../css/tnodashboard.css">
 	<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/TextPlugin.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/SplitText.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/gsap@3.14/dist/gsap.min.js"></script>
@@ -16,10 +16,40 @@
 	<div id="scanlines"></div>
 	<audio controls id="audio"> <source src="miscellaneous/hwc_demo.mp3" type="audio/mpeg"></audio>
 	<audio controls id="file_click"> <source src="miscellaneous/sfx_s_terminal_power_on.mp3" type="audio/mpeg"></audio>
+    <div id="dashboardContainer">
+        <div id="close"><div id="closeToggle"><p>X</p></div></div>
+        <div id="dashboard">
+            <div id="dashboardModes">
+                <p class="modeToggle enabled_glow">CHARACTERS</p>
+                <p class="modeToggle enabled_glow">UNIVERSES</p>
+                <p class="modeToggle enabled_glow">ARCS</p>
+            </div>
+            <div id="dashboardHeader">
+                <hr>
+                <h2>The Universal SiIvaGunner Explainer 7000™</h2>
+                <hr>
+            </div>
+            <div id="characterImage"><img id="image" src="">
+                <div id="overlay"></div>
+            </div>
+            <div id="characterNameContainer">
+                <p id="backwardToggle">&lt;</p>
+                <h4 id="name"></h4>
+                <p id="forwardToggle">&gt;</p>
+            </div>
+            <div id="dashboardDetails">
+                <h4>CHARACTER SUMMARY:</h4>
+            </div>
+            <div id="dashboardDescription">
+                <h4>CHARACTER DESCRIPTION:</h4>
+                <p class="details" id="description"></p>
+            </div>
+        </div>
+    </div>
 	<div id="controls">
 		<br>
 		<br>
-		<b style="margin-left: 197px;">THE HALTMANN WORKS TIMELINE SORTER</b>
+		<p style="margin-left: 197px;">THE HALTMANN WORKS TIMELINE SORTER</p>
 		<form id="select">
 			<input type="checkbox" name="data2000" checked>
 			<label for="data2000">&lt;1999</label>
@@ -57,10 +87,6 @@
 		</div>
 		<br>
 		<br>
-	</div>
-	<div style="width: 100vw; height: 100vh; display: flex; z-index: -1; position: absolute;">
-		<h2 id="welcome" style="font-family:'Primetime'; margin:auto; height: 40px; font-size: 40px;">WELCOME TO
-			SIIVAGUNNER!</h2>
 	</div>
 	<div id="timeline_container">
 		<div style="width: 100vw; height: 100vh; z-index: -1; position: absolute;">
